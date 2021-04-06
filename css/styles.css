@@ -9992,7 +9992,7 @@ h3 {
 }
 
 .divider-custom {
-  margin: 1.25rem 0 1.5rem;
+  margin: 1rem 0 1.5rem;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -10131,7 +10131,7 @@ h3 {
     padding-bottom: 6rem;
   }
   .masthead .masthead-heading {
-    font-size: 3rem;
+    font-size: 4rem;
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
